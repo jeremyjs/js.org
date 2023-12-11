@@ -1370,6 +1370,7 @@ var cnames_active = {
   "hymity": "sarveshmrao.github.io/hymity",
   "hyperform": "hyperform.github.io",
   "hyperhtml-styleguide": "albertosantini.github.io/hyperhtml-styleguide", // noCF
+  "hypermodern": "hyper-modern.github.io",
   "hypixel": "hypixelts.github.io/website",
   "hyssop": "lillupad.github.io/hyssop.js",
   "i18n4v": "shibukawa.github.io/i18n4v",
